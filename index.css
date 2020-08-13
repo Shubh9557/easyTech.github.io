@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#search input {
+    width: 140px;
+    height: 30px;
+}
+
+.button {
+    width: 80px;
+    height: 37px;
+    background-color: grey;
+    color: white;
+}
+
+.button:hover {
+    background-color: rgb(53, 52, 52);
+    color: white;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+/* contact page''''''''''''''''''''''''''''''''' */
+
+.contact-form {
+    background-color: rgba(179, 229, 213, 0.625);
+    margin-top: 90px;
+    /* margin: auto; */
+    padding: 50px;
+    border: 2px solid rgb(87, 212, 112);
+    border-radius: 10px;
+    width: 50%;
+    height: 30%;
+}
+
+.contact-form button {
+    width: 50%;
+    margin-left: 125px;
+}
+
+/* about page''''''''''''''''''''''''''''''' */
+
+.aboutpage {
+    width: 70%;
+    margin-top: 30px;
+}
+
+.Requiredparaincontactform {
+    color: red;
+    font-size: 10px;
+}
+
+.navbar {
+    height: 50px;
+    opacity: .9;
+}
+
+.firstsec {
+    height: 90vh;
+}
+
+.imgheight {
+    height: 90vh;
+}
+
+.innerdiv {
+    height: 100%;
+}
