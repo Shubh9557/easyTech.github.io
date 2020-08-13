@@ -27,14 +27,15 @@
 /* contact page''''''''''''''''''''''''''''''''' */
 
 .contact-form {
+    display:relative;
     background-color: rgba(179, 229, 213, 0.625);
     margin-top: 90px;
     /* margin: auto; */
     padding: 50px;
     border: 2px solid rgb(87, 212, 112);
     border-radius: 10px;
-    width: 50%;
-    height: 30%;
+    width: 100%;
+    
 }
 
 .contact-form button {
@@ -60,11 +61,11 @@
 }
 
 .firstsec {
-    height: 90vh;
+    height: 50vh;
 }
 
 .imgheight {
-    height: 90vh;
+    height: 50vh;
 }
 
 .innerdiv {
