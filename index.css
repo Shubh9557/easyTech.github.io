@@ -25,7 +25,7 @@
 
 .card {
     margin-top: 20px;
-        background-color: rgb(229 241 160 / 31%);
+    background-color: rgb(229 241 160 / 31%);
 
 }
 
@@ -44,7 +44,7 @@
 }
 
 .contact-form button {
-    width: 100%;
+    width: 50%;
     margin-left: 125px;
 }
 
