@@ -1,6 +1,9 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing:border-box;
+    font-family: 'Noto Serif', serif;
+
 }
 
 #search input {
@@ -39,7 +42,7 @@
 }
 
 .contact-form button {
-    width: 50%;
+    width: 100%;
     margin-left: 125px;
 }
 
@@ -47,7 +50,7 @@
 
 .aboutpage {
     width: 70%;
-    margin-top: 30px;
+    margin-top: 90px;
 }
 
 .Requiredparaincontactform {
